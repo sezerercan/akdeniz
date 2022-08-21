@@ -3,6 +3,7 @@ public class deneme1 {
 
 
         System.out.println("selam abim");
+        System.out.println("selam abim canim abim");
 
     }
 }
