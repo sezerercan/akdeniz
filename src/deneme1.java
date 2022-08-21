@@ -11,6 +11,8 @@ public class deneme1 {
         System.out.println("jsajhasdgdsj");
         System.out.println("jhsadsdsdakuhsadfj");
         System.out.println("yenig yaptim");
+        System.out.println("yenig yaptim");
+        System.out.println("yenig yaptim");
 
 
 
