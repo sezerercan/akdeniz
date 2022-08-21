@@ -17,7 +17,7 @@ public class deneme1 {
 
         System.out.println("lşkdhf654e5p6ı7");
         System.out.println("lşkdhf654e5p6ı7");
-        System.out.println("lşkdhf654e5p6ı7");
+        System.out.println("lşkdhf654e5p6ı7");git
 
     }
 }
