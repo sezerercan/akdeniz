@@ -5,6 +5,7 @@ public class deneme1 {
         System.out.println("selam abim");
         System.out.println("selam abim canim abim");
         System.out.println("jhsadsdfj");
+        System.out.println("gkdfhgk646464646464646466gitdhgksdkghsdkghogghfg");
 
     }
 }
